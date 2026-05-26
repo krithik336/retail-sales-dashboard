@@ -189,4 +189,3 @@ retail-sales-dashboard/
 ├── Sample - Superstore.csv
 ├── requirements.txt
 ├── README.md
-└── sales_prediction_report.csv
